@@ -9,10 +9,9 @@ HL还会检测是否有切屏和快捷键行为。虽然曾经通过 **Win+Tab**
 
 WeChat: Wonderful_U_010224
 
+海外用户可以使用海外版本的微信
+
 Mail:   bfzgsz@foxmail.com
-
-Facebook:   [Facebook主页](https://www.facebook.com/profile.php?id=61564956901836&mibextid=ZbWKwL "Facebook主页")（如果使用Facebook联系，请在发起好友申请后向以上邮箱发送一封邮件）
-
 
 ## Honorlock是如何检测常规远程控制行为的？
 
@@ -61,9 +60,9 @@ To perform remote control in the HL environment, our team has developed speciali
 
 WeChat: Wonderful_U_010224
 
-Mail:   bfzgsz@foxmail.com
+Overseas users can use the overseas version of WeChat
 
-Facebook:   [Facebook Page](https://www.facebook.com/profile.php?id=61564956901836&mibextid=ZbWKwL "Facebook Page") (If contacting via Facebook, please send an email to the above email address after submitting a friend request)
+Mail:   bfzgsz@foxmail.com
 
 ## How Does Honorlock Detect Conventional Remote Control Behaviors?
 
@@ -134,7 +133,7 @@ HonorLock detects remote control primarily through the following:
 3. **屏蔽主控方键鼠操作**：为了防止在巡考到来时写手仍在操控电脑从而被发现作弊行为，考试机支持屏蔽主控方的键鼠操作。注意，主控方有解除屏蔽的功能（单独付费项）。
 4. **屏蔽考试机键鼠操作**：支持屏蔽考试机是为了在考试时假装对简答题进行作答，而不影响远程控制（单独付费项）。
 
-## 二、收费标准
+## 二、收费标准（机构价格）
 
 | **收费项目**            | **标准版**                                             | **高级版**                                             |
 | ----------------------- |-----------------------------------------------------|-----------------------------------------------------|
@@ -216,7 +215,7 @@ HonorLock detects remote control primarily through the following:
 3. **Block Main Control's Mouse/Keyboard**: This prevents proctors from noticing the writer's activity during the exam. However, the main control has the ability to unblock this (paid feature).
 4. **Block Exam Machine's Mouse/Keyboard**: This allows the examinee to pretend to answer essay questions without interrupting the remote control (paid feature).
 
-## II. Pricing
+## II. Pricing(Institutional Price)
 
 | **Charge Item**                          | **Standard Edition**                                                                                            | **Advanced Edition**                                                                                                                            |
 | ---------------------------------------- |-----------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------|
