@@ -122,14 +122,6 @@ HonorLock can limit or monitor the usage of certain applications. If you attempt
 
 HonorLock records the entire exam process for invigilators or administrators to review afterward. Even if you were not immediately detected during the exam, the video and screen recordings may reveal situations where you did not operate the keyboard and mouse while a remote controller did. The invigilators can replay the video to find clues of remote control behavior.
 
-## Conclusion
-
-HonorLock detects remote control primarily through the following:
-
-- **Abnormal Behavior Patterns**: Mouse and keyboard operations do not match human behavior.
-- **Camera and Audio Monitoring**: Actions on the computer do not align with the behavior captured by the camera.
-- **IP Address and Network Activity Anomalies**: Remote control triggers abnormal network connection or device usage.
-- **Software Usage Detection**: Attempts to use remote control tools or application switching behavior.
 
 ![Picture1](./screen/1.png "Example1")
 
