@@ -124,6 +124,11 @@ HonorLock records the entire exam process for invigilators or administrators to 
 
 
 ![Picture1](./screen/1.png "Example1")
+![Picture2](./screen/2.jpeg "Example2")
+![Picture3](./screen/3.jpg "Example3")
+![Picture4](./screen/4.jpg "Example4")
+![Picture5](./screen/5.jpg "Example5")
+![Picture6](./screen/6.jpg "Example6")
 
 ---
 
@@ -146,7 +151,10 @@ HonorLock records the entire exam process for invigilators or administrators to 
 3. **屏蔽主控方键鼠操作**：为了防止在巡考到来时写手仍在操控电脑从而被发现作弊行为，考试机支持屏蔽主控方的键鼠操作。注意，主控方有解除屏蔽的功能。
 4. **屏蔽考试机键鼠操作**：支持屏蔽考试机是为了在考试时假装对简答题进行作答，而不影响远程控制。
 
-## 二、定价与退款规则（机构价格）
+## 二、定价规则（个人价格）
+500元/小时，按考试全场收费，以小时为计价单元，最低一个小时
+
+## 三、定价与退款规则（机构价格）
 
 ### 定价规则：
 一场考试由以下几部分费用组成：
@@ -187,7 +195,7 @@ HonorLock records the entire exam process for invigilators or administrators to 
 5. **如果提前结束考试**，需要手动关闭服务器（不允许再启动或重启服务器，否则会继续计费）后，联系我们说明具体场次考试已经提前结束。我们会审查服务器日志，并进行退款，未使用的考试时长退一半费用。比如预定了三个时间单元，但是只使用了两个时间单元，那么退款时第三个时间单元会退一半。
 6. **如果测试失败了**，可以全额退款，这种情况需要联系我们。因为自动退款的逻辑不会全额退款。
 
-## 三、适用平台
+## 四、适用平台
 
 ### 被控方：
 - **Windows：**
@@ -197,7 +205,7 @@ HonorLock records the entire exam process for invigilators or administrators to 
 ### 主控方：
 1. **Mac OS**：MacOS 11及以上（需要云电脑，此处为单独收费项）。
 2. **Windows**：Win10及以上。
-## 四、其他说明与常见疑问
+## 五、其他说明与常见疑问
 
 1. **会被 HL 检测到吗？**
    不会，本程序完全处于 HL 的检测范围之外，且本程序使用的技术比 HL 更复杂，操作权限在 HL 之上，也不会破坏 HL 程序的完整性。但值得注意的是：如果你的电脑上出现其他弹窗软件（例如鲁大师广告插件）导致的弹窗检测，本软件概不负责。
@@ -264,7 +272,12 @@ HonorLock records the entire exam process for invigilators or administrators to 
 3. **Block Master Control Key & Mouse**: To prevent proctors from detecting cheating behavior when they arrive, the exam machine can block master control keyboard and mouse operations. However, the master control can unblock this.
 4. **Block Exam Machine Key & Mouse**: The exam machine can be blocked to simulate answering essay questions without affecting remote control.
 
-## 2. Pricing and Refund Policy (Institution Price)
+
+## 2. Pricing Rules (Individual Rate)
+RMB 500 per hour, charged for the entire duration of the exam. Billing is calculated in hourly units, with a minimum charge of one hour.
+
+
+## 3. Pricing and Refund Policy (Institution Price)
 
 ### Pricing Rules:
 An exam consists of the following parts:
@@ -305,7 +318,7 @@ Refunds are calculated based on the following variables and the status of the sc
 5. **If Exam Ends Early**, the server must be manually closed (it cannot be started or restarted) and contact us with specific details. We will review the server logs and refund unused exam time. For example, if you booked three time units but used only two, the third time unit will be refunded half.
 6. **If the Test Fails**, a full refund is possible. Please contact us, as the automatic refund logic won't refund the full amount.
 
-## 3. Supported Platforms
+## 4. Supported Platforms
 
 ### Controlled Side:
 - **Windows**:
@@ -316,7 +329,7 @@ Refunds are calculated based on the following variables and the status of the sc
 1. **Mac OS**: MacOS 11 and above (requires cloud computer, which is a separate charge).
 2. **Windows**: Windows 10 and above.
 
-## 4. Additional Information & Frequently Asked Questions
+## 5. Additional Information & Frequently Asked Questions
 
 1. **Will HL detect this?**
    No, this program is fully outside HL’s detection range. It uses more advanced technology than HL, with control permissions above HL, and does not damage the integrity of HL. However, if other pop-up software (such as LuMaster ad plugins) causes pop-up detection, the software is not responsible.
